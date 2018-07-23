@@ -1,0 +1,11 @@
+rootProject.name = 'rainbow-financial'
+include 'financial-util'
+findProject(':financial-util')?.name = 'util'
+include 'financial-util'
+include 'financial-entity'
+include 'financial-api'
+include 'financial-manager'
+include 'financial-quartz'
+include 'financial-swagger'
+include 'financial-saller'
+

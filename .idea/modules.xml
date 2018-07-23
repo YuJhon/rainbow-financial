@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-api.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-entity.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-quartz.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-saller.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-saller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-swagger.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/financial-util.iml" filepath="$PROJECT_DIR$/.idea/modules/financial-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rainbow-financial.iml" filepath="$PROJECT_DIR$/.idea/modules/rainbow-financial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rainbow-financial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rainbow-financial_main.iml" group="rainbow-financial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rainbow-financial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rainbow-financial_test.iml" group="rainbow-financial" />
+    </modules>
+  </component>
+</project>
